@@ -1,5 +1,7 @@
 version: STSv1
 mode: testing
+mx: mail.protonmail.ch.
+mx: mailsec.protonmail.ch.
 mx: aspmx.l.google.com
 mx: alt1.aspmx.l.google.com
 mx: alt2.aspmx.l.google.com
